@@ -1,4 +1,4 @@
-# Bachelor's thesis Fair Path Planning for Unmanned Aerial Vehicles (UAVs) in Emergency Response Missions
+## Bachelor's thesis Fair Path Planning for Unmanned Aerial Vehicles (UAVs) in Emergency Response Missions
 
 
 The development of autonomous systems, such as Unmanned Aerial Vehicles (UAVs), has witnessed significant
