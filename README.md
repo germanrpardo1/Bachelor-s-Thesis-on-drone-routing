@@ -15,4 +15,4 @@ initially expected. This algorithm enables the agent to adapt and make decisions
 survivors. In order to address uncertainties inherent in emergency situations, a random variable is incorporated,
 enabling the agent to learn and make decisions based on new information.
 
-
+Link: http://hdl.handle.net/1992/67649
